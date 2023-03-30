@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'alegreya';
+}
+.container{
+    height: 100vh;
+    background-color: chocolate;
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
